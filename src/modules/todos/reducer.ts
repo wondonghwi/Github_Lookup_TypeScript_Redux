@@ -5,7 +5,7 @@ import { addTodo, removeTodo, toggleTodo } from './action';
 const initialState: Todo[] = [
   {
     id: 1,
-    text: '1',
+    text: 'first',
     done: false,
   },
 ];
