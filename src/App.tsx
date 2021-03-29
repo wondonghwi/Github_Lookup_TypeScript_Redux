@@ -1,10 +1,10 @@
 import React from 'react';
-import TodoApp from './container/TodoApp';
+import GithubProfileLoader from './container/GithubProfileLoader';
 
 const App = () => {
   return (
     <div>
-      <TodoApp />
+      <GithubProfileLoader />
     </div>
   );
 };
