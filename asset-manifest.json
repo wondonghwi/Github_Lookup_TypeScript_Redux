@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/css/main.f0abd9d9.chunk.css",
+    "main.js": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/main.6d98f9bc.chunk.js",
+    "main.js.map": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/main.6d98f9bc.chunk.js.map",
+    "runtime-main.js": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/runtime-main.921ee8c8.js",
+    "runtime-main.js.map": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/runtime-main.921ee8c8.js.map",
+    "static/js/2.e047f4c7.chunk.js": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/2.e047f4c7.chunk.js",
+    "static/js/2.e047f4c7.chunk.js.map": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/2.e047f4c7.chunk.js.map",
+    "static/js/3.1ee30446.chunk.js": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/3.1ee30446.chunk.js",
+    "static/js/3.1ee30446.chunk.js.map": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/3.1ee30446.chunk.js.map",
+    "index.html": "/wondonghwi/Github_Lookup_TypeScript_Redux/index.html",
+    "static/css/main.f0abd9d9.chunk.css.map": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/css/main.f0abd9d9.chunk.css.map",
+    "static/js/2.e047f4c7.chunk.js.LICENSE.txt": "/wondonghwi/Github_Lookup_TypeScript_Redux/static/js/2.e047f4c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921ee8c8.js",
+    "static/js/2.e047f4c7.chunk.js",
+    "static/css/main.f0abd9d9.chunk.css",
+    "static/js/main.6d98f9bc.chunk.js"
+  ]
+}
