@@ -8,3 +8,5 @@
   - redux-Thunk
 
 ### [웹페이지 바로가기](https://wondonghwi.github.io/Github_Lookup_TypeScript_Redux/)
+
+![](images/img.png)
